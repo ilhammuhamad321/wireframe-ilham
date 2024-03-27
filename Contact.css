@@ -1,0 +1,296 @@
+ .u-section-1 {
+  min-height: 850px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 311px;
+  height: 553px;
+  margin: 22px calc(((100% - 1140px) / 2)) 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -452px auto 0 calc(((100% - 1140px) / 2) + 278px);
+}
+
+.u-section-1 .u-image-2 {
+  width: 198px;
+  height: 152px;
+  margin: 11px calc(((100% - 1140px) / 2) + 437px) 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 129px;
+  height: 129px;
+  margin: 123px calc(((100% - 1140px) / 2) + 464px) 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -218px calc(((100% - 1140px) / 2) + 464px) 0 auto;
+}
+
+.u-section-1 .u-shape-1 {
+  width: calc(((100% - 1140px) / 2) + 191px);
+  height: 812px;
+  margin: -493px auto 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -713px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-btn-3 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 22px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-btn-4 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 22px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-btn-5 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 22px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-btn-6 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 22px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-btn-7 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 302px calc(((100% - 1140px) / 2) + 453px) 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 378px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: auto;
+    margin-left: calc(((100% - 1140px) / 2) + 405px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: auto;
+    margin-left: calc(((100% - 1140px) / 2) + 447px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 364px);
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 1140px) / 2) + 241px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-right: calc(((100% - 1140px) / 2) + 353px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 423px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 295px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 337px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 254px);
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 1140px) / 2) + 351px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-right: calc(((100% - 1140px) / 2) + 243px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 460px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 1140px) / 2) + 441px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 501px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 1140px) / 2) + 541px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-btn-7 {
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+}
